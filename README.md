@@ -32,4 +32,4 @@ streamlit run dashboard.py
 ## Contact
 If you're interested with my project and want to ask something or collaborate, you can contact me through my LinkedIn below:
 
-![Irfan's LinkedIn](https://www.linkedin.com/in/alghaniirfan/)
+[Irfan's LinkedIn](https://www.linkedin.com/in/alghaniirfan/)
