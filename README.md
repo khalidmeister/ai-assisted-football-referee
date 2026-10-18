@@ -7,6 +7,7 @@ This project was inspired when I watched football games and there are several ru
 
 ## Architecture
 ![Teks Alternatif](./diagram.png)
+
 For implementing this project, Python is used as the foundation of it along with libraries such as:
 - PyMuPDF for extracting document's text and metadata,
 - Google AI to integrate LLM on our interface to make the answers easy to understand,
@@ -19,3 +20,16 @@ The Gemini is free to use (limited amount of requests ofc) and the embedding is 
 
 ## Data Source
 We used the IFAB's Law of The Game document as the baseline for our system. It comprises of Laws regarding of a football game. You can download the data through the IFAB website.
+
+## How to Run?
+If you want to try by yourself, You can run the .ipynb file first. Then, you can install the libraries inside the notebook.
+After that, you can run the streamlit dashboard by typing this command inside your file path:
+
+```
+streamlit run dashboard.py
+```
+
+## Contact
+If you're interested with my project and want to ask something or collaborate, you can contact me through my LinkedIn below:
+
+![Irfan's LinkedIn](https://www.linkedin.com/in/alghaniirfan/)
